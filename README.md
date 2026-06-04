@@ -57,8 +57,4 @@ streamlit run app.py
 
 (depending on the application entry point)
 
-## Notes
 
-The deployment issue is specific to the Hugging Face Spaces environment and does not affect the local execution of the chatbot.
-
-If required, I would be happy to provide a live demonstration of the chatbot through a meeting or screen-sharing session.
